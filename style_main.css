@@ -1,0 +1,355 @@
+.Instrument-Serif-Regular {
+    font-family: "Instrument Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .abhaya-libre-semibold {
+    font-family: "Abhaya Libre", serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+.element {
+    background-color: #f6f3ef;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .element .div {
+    background-color: #f6f3ef;
+    overflow: hidden;
+    width: 1728px;
+    height: 1117px;
+    position: relative;
+  }
+  
+  .element .NAV {
+    position: absolute;
+    width: 1734px;
+    height: 62px;
+    top: 0;
+    left: -2px;
+  }
+  
+  .element .overlap-group {
+    position: relative;
+    width: 1728px;
+    height: 62px;
+    background-color: #f6f3ef;
+    box-shadow: 0px 4px 32.4px #00000017;
+  }
+  
+  .element .NAV-BUTT {
+    position: absolute;
+    width: 27px;
+    height: 21px;
+    top: 21px;
+    left: 1677px;
+  }
+  
+  .element .group {
+    position: relative;
+    height: 21px;
+  }
+  
+  .element .rectangle {
+    top: 0;
+    position: absolute;
+    width: 27px;
+    height: 3px;
+    left: 0;
+    background-color: #8a9e4a;
+    border-radius: 1.5px;
+  }
+  
+  .element .rectangle-2 {
+    top: 9px;
+    position: absolute;
+    width: 27px;
+    height: 3px;
+    left: 0;
+    background-color: #8a9e4a;
+    border-radius: 1.5px;
+  }
+  
+  .element .rectangle-3 {
+    top: 18px;
+    position: absolute;
+    width: 27px;
+    height: 3px;
+    left: 0;
+    background-color: #8a9e4a;
+    border-radius: 1.5px;
+  }
+  
+  .element .text-wrapper {
+    top: 12px;
+    left: 29px;
+    font-family: "Abhaya Libre", serif;
+    color: #121212;
+    font-size: 32px;
+    white-space: nowrap;
+    position: absolute;
+    font-weight: 400;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element .text-wrapper-2 {
+    position: absolute;
+    width: 94px;
+    top: 21px;
+    left: 1424px;
+    font-family: "Abhaya Libre", serif;
+    font-weight: 400;
+    color: #212020ab;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element .text-wrapper-3 {
+    position: absolute;
+    width: 93px;
+    top: 21px;
+    left: 1546px;
+    font-family: "Abhaya Libre", serif;
+    font-weight: 400;
+    color: #212020ab;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element .overlap {
+    position: absolute;
+    width: 1740px;
+    height: 819px;
+    top: 298px;
+    left: 0;
+  }
+  
+  .element .overlap-2 {
+    position: absolute;
+    width: 1740px;
+    height: 819px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element .text-wrapper-4 {
+    top: 0;
+    left: 242px;
+    font-family: "Instrument Serif", serif;
+    color: #000000;
+    font-size: 140px;
+    position: absolute;
+    font-weight: 400;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .label {
+    width: 394px;
+    height: 270px;
+  }
+  .label .fields-of-melody {
+    position: fixed;
+    width: 394px;
+    top: 0;
+    left: 0;
+    font-family: "Pretendard-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: 27px;
+  }
+  
+  .element .tree {
+    position: absolute;
+    width: 1726px;
+    height: 388px;
+    top: 431px;
+    left: 0;
+  }
+  
+  .element .overlap-wrapper {
+    position: absolute;
+    width: 1740px;
+    height: 274px;
+    top: 545px;
+    left: 0;
+  }
+  
+  .element .overlap-3 {
+    position: relative;
+    width: 1728px;
+    height: 274px;
+  }
+  
+  .element .overlap-group-2 {
+    position: absolute;
+    width: 259px;
+    height: 73px;
+    top: 185px;
+    left: 798px;
+  }
+  
+  .element .text-wrapper-5 {
+    position: absolute;
+    top: 37px;
+    left: 81px;
+    font-family: "Pretendard-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffffdb;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element .text-wrapper-6 {
+    position: absolute;
+    width: 259px;
+    top: 0;
+    left: 0;
+    font-family: "Abhaya Libre", serif;
+    font-weight: 400;
+    color: #ffffffdb;
+    font-size: 29px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element .overlap-4 {
+    position: absolute;
+    width: 259px;
+    height: 73px;
+    top: 183px;
+    left: 1430px;
+  }
+  
+  .element .text-wrapper-7 {
+    position: absolute;
+    top: 37px;
+    left: 99px;
+    text-shadow: 0px 4px 4px #000000d9;
+    font-family: "Pretendard-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffffdb;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element .text-wrapper-8 {
+    position: absolute;
+    width: 259px;
+    top: 0;
+    left: 0;
+    text-shadow: 0px 4px 4px #000000d9;
+    font-family: "Abhaya Libre", serif;
+    font-weight: 400;
+    color: #ffffffdb;
+    font-size: 29px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element .overlap-5 {
+    position: absolute;
+    width: 259px;
+    height: 73px;
+    top: 185px;
+    left: 30px;
+  }
+  
+  .element .text-wrapper-9 {
+    position: absolute;
+    top: 37px;
+    left: 85px;
+    font-family: "Pretendard-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffffdb;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element .text-wrapper-10.Instrument-Serif-Regular {
+    position: absolute;
+    top: 122px;
+    left: 235px;
+    font-family: "Instrument Serif", serif;
+    font-weight: 400;
+    color: #1f221d;
+    font-size: 270px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element .fields-of-melody {
+    position: absolute;
+    width: 394px;
+    height: 283px;
+    top: 98px;
+    left: 1119px;
+  }
+  
+  .element .text-wrapper-11 {
+    position: absolute;
+    top: 51px;
+    left: 1119px;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-weight: 400;
+    color: #949494;
+    font-size: 17px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element .group-2 {
+    position: absolute;
+    width: 140px;
+    height: 43px;
+    top: 103px;
+    left: 44px;
+  }
+  
+  .element .subtract {
+    position: absolute;
+    width: 43px;
+    height: 43px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element .text-wrapper-12 {
+    position: absolute;
+    top: 9px;
+    left: 61px;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-weight: 400;
+    color: #7c8c63;
+    font-size: 26px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+

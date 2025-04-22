@@ -1,0 +1,413 @@
+.element {
+  display: -webkit-flex;  /* 사파리용 */
+  display: flex;          /* 크롬 및 최신 브라우저용 */
+}
+
+
+.instrument-serif-regular {
+  font-family: "Instrument Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.abhaya-libre-semibold {
+  font-family: "Abhaya Libre", serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+
+.element {
+    background-color: #f6f3ef;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .element .div {
+    background-color: #f6f3ef;
+    overflow: hidden;
+    width: 1728px;
+    height: 1117px;
+    position: relative;
+  }
+  
+  .element .NAV {
+    position: absolute;
+    width: 1734px;
+    height: 62px;
+    top: 0;
+    left: -2px;
+  }
+  
+  .element .overlap-group {
+    position: relative;
+    width: 1728px;
+    height: 62px;
+    background-color: #f6f3ef;
+    box-shadow: 0px 4px 32.4px #00000017;
+  }
+  
+  .element .NAV-BUTT {
+    position: absolute;
+    width: 27px;
+    height: 21px;
+    top: 21px;
+    left: 1677px;
+  }
+  
+  .element .group {
+    position: relative;
+    height: 21px;
+  }
+  
+  .element .rectangle {
+    top: 0;
+    position: absolute;
+    width: 27px;
+    height: 3px;
+    left: 0;
+    background-color: #8a9e4a;
+    border-radius: 1.5px;
+  }
+  
+  .element .rectangle-2 {
+    top: 9px;
+    position: absolute;
+    width: 27px;
+    height: 3px;
+    left: 0;
+    background-color: #8a9e4a;
+    border-radius: 1.5px;
+  }
+  
+  .element .rectangle-3 {
+    top: 18px;
+    position: absolute;
+    width: 27px;
+    height: 3px;
+    left: 0;
+    background-color: #8a9e4a;
+    border-radius: 1.5px;
+  }
+  
+  .element .text-wrapper {
+    top: 12px;
+    left: 29px;
+    font-family: "Abhaya Libre", serif;
+    color: #121212;
+    font-size: 32px;
+    white-space: nowrap;
+    position: absolute;
+    font-weight: 400;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element .text-wrapper-2 {
+    position: absolute;
+    width: 94px;
+    top: 21px;
+    left: 1424px;
+    font-family: "Abhaya Libre", serif;
+    font-weight: 400;
+    color: #212020ab;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element .text-wrapper-3 {
+    position: absolute;
+    width: 93px;
+    top: 21px;
+    left: 1546px;
+    font-family: "Abhaya Libre", serif;
+    font-weight: 400;
+    color: #212020ab;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element .overlap {
+    position: absolute;
+    width: 1728px;
+    height: 1054px;
+    top: 63px;
+    left: 0;
+  }
+  
+  .element .tree {
+    position: absolute;
+    width: 1728px;
+    height: 360px;
+    top: 694px;
+    left: 0;
+  }
+  
+  .element .group-2 {
+    position: absolute;
+    width: 1728px;
+    height: 176px;
+    top: 878px;
+    left: 0;
+  }
+  
+  .element .text-wrapper-4 {
+    top: 250px;
+    left: 800px;
+    font-family: "Instrument Serif";
+    color: #000000;
+    font-size: 140px;
+    position: absolute;
+    font-weight: 400;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element .text-wrapper-5 {
+    position: absolute;
+    top: 360px;
+    left: 790px;
+    font-family: "Instrument Serif";
+    color: #1f221d;
+    font-size: 270px;
+    text-align: center;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element .overlap-wrapper {
+    position: absolute;
+    width: 690px;
+    height: 1054px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element .overlap-2 {
+    position: relative;
+    width: 686px;
+    height: 1054px;
+  }
+  
+  .element .frame {
+    position: absolute;
+    width: 686px;
+    height: 1054px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element .subtract-wrapper {
+    position: relative;
+    width: 588px;
+    height: 1054px;
+    background-image: url(./img/rectangle-2862483.svg);
+    background-size: 100% 100%;
+  }
+  
+  .element .subtract {
+    position: absolute;
+    width: 43px;
+    height: 43px;
+    top: 42px;
+    left: 44px;
+  }
+  
+  .element .text-wrapper-6 {
+    position: absolute;
+    top: 50px;
+    left: 109px;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-weight: 400;
+    color: #727d61;
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element .frame-2 {
+    display: flex;
+    flex-direction: column;
+    width: 112px;
+    align-items: flex-start;
+    gap: 14px;
+    position: absolute;
+    top: 411px;
+    left: 57px;
+  }
+  
+  .element .text-wrapper-7 {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1.00px;
+    font-family: "Pretendard-Regular", Helvetica;
+    font-weight: 400;
+    color: #7c8c63;
+    font-size: 19px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element .text-wrapper-8 {
+    color: #7c8c63;
+    font-size: 19px;
+    position: relative;
+    align-self: stretch;
+    font-family: "Pretendard-Regular", Helvetica;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element .frame-3 {
+    display: flex;
+    flex-direction: column;
+    width: 213px;
+    align-items: flex-start;
+    gap: 14px;
+    position: absolute;
+    top: 700px;
+    left: 57px;
+  }
+  
+  .element .frame-4 {
+    display: flex;
+    flex-direction: column;
+    width: 234px;
+    align-items: flex-start;
+    gap: 14px;
+    position: absolute;
+    top: 288px;
+    left: 57px;
+  }
+  
+  .element .vector {
+    top: 248px;
+    position: absolute;
+    width: 29px;
+    height: 1px;
+    left: 56px;
+    object-fit: cover;
+  }
+  
+  .element .img {
+    top: 802px;
+    position: absolute;
+    width: 29px;
+    height: 1px;
+    left: 56px;
+    object-fit: cover;
+  }
+  
+  .element .frame-5 {
+    display: flex;
+    flex-direction: column;
+    width: 51px;
+    align-items: flex-start;
+    gap: 14px;
+    position: absolute;
+    top: 286px;
+    left: 441px;
+  }
+  
+  .element .text-wrapper-9 {
+    margin-top: -1.00px;
+    color: #a3b08e;
+    font-size: 18px;
+    position: relative;
+    align-self: stretch;
+    font-family: "Pretendard-Regular", Helvetica;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element .text-wrapper-10 {
+    color: #a3b08e;
+    font-size: 18px;
+    position: relative;
+    align-self: stretch;
+    font-family: "Pretendard-Regular", Helvetica;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element .frame-6 {
+    display: flex;
+    flex-direction: column;
+    width: 51px;
+    align-items: center;
+    gap: 14px;
+    position: absolute;
+    top: 412px;
+    left: 441px;
+  }
+  
+  .element .frame-7 {
+    display: flex;
+    flex-direction: column;
+    width: 49px;
+    align-items: flex-start;
+    gap: 14px;
+    position: absolute;
+    top: 694px;
+    left: 441px;
+  }
+  
+  .element .text-wrapper-11 {
+    height: 21px;
+    margin-top: -1.00px;
+    color: #a3b08e;
+    font-size: 18px;
+    white-space: nowrap;
+    position: relative;
+    align-self: stretch;
+    font-family: "Pretendard-Regular", Helvetica;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element .text-wrapper-12 {
+    height: 21px;
+    color: #a3b08e;
+    font-size: 18px;
+    white-space: nowrap;
+    position: relative;
+    align-self: stretch;
+    font-family: "Pretendard-Regular", Helvetica;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element .p {
+    position: absolute;
+    width: 481px;
+    top: 972px;
+    left: 58px;
+    font-family: "Helvetica Neue-Medium", Helvetica;
+    font-weight: 500;
+    color: #0000004a;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+
+  
